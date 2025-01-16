@@ -1,2 +1,2 @@
-Hola freeCodeCamp!
+Hola JavaScript!
 Estic aprenent Git.
