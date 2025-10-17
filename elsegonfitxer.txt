@@ -1,6 +1,1 @@
-Hola JavaScript!
-proves de canvis.
-
-Més proves amb reset de git
-
 Prova tags
