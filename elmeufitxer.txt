@@ -1,4 +1,6 @@
 Hola JavaScript!
+Estic aprenent Git.
+
 proves de canvis.
 
 Més proves amb reset de git
