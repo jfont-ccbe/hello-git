@@ -4,3 +4,5 @@ Estic aprenent Git.
 proves de canvis.
 
 Més proves amb reset de git
+
+Començant a fer servir Github
